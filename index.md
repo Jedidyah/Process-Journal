@@ -1,3 +1,3 @@
-### Process Journal
+# Process Journal
 ## Week 6
-# third level heading
+### third level heading

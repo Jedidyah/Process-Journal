@@ -6,6 +6,12 @@ In week 6 we came up with the idea of the Mood Bracelet, did some research on wh
 </p>
 ...
 ## Week 7
+<p align="center" style="text-align: center;">
+  <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 ...
 ## Week 8
+<p align="center" style="text-align: center;">
+  <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 ...

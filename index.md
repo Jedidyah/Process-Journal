@@ -5,13 +5,13 @@ Below is an image:
 <p align="center" style="text-align: center;">
   <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
-Possible materials: 
+Possible materials that we would use for the wrist band of the mood bracelet: 
 - Fabircs
 - Hairties
 - Rubber
 
 ## Week 7
-
+In week 7 we started to work on some of the coding for the task. 
 <p align="center" style="text-align: center;">
   <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>

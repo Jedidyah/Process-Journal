@@ -1,7 +1,7 @@
 # Process Journal
-## Week 6
-In week 6 we came up with the idea of the Mood Bracelet, did some research on what products are similat to our mood bracelet idea and come up with a little bit of ideas on how it will work. We also thoguht of some materals that we coul duse as the band for the bracelet that will also work with the mocrobit. It has to be comfortable for users, easy to use (take off and put on) and also needs to work well with a microbit. Within this I also did a sketch on roughly how we want the bracelet to look with the microbit. 
-Below is an image: 
+## Week 9
+In week 9 we started to come up with more ideas of how the microbit would look and work, while also trying to come up with the coding for the facial expressions that will show on the front of the Microbit. We also began to experiment with different buts and pieces and other parts such as a different type of microbit (not called a microbit but it is a smaller piece that was considered for the project) and also a heart rate monitor. 
+Below is an image of the coding software used: 
 <p align="center" style="text-align: center;">
   <img src="images/sketch.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>

@@ -7,13 +7,13 @@ Below is an image of the coding software used:
 </p>
 
 ## Week 10
-In week 7 we started to work on some of the coding for the task. An image of some of the coding that we will use is shown below. We also ustillised this week to start preparing the script for the presentation. The code below is to help us be able to get the microbit to measure the heart rate of the person wearing it. 
+In week 10 we. 
 <p align="center" style="text-align: center;">
   <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 ## Week 11
-In week 8 we finalised the script and powerpoint and presented the mood bracelet infront of the class. Below is a screenshott of the powerpoint presentation:
+In week 11 we.
 <p align="center" style="text-align: center;">
   <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>

@@ -18,7 +18,5 @@ In week 8 we finalised the script and powerpoint and presented the mood bracelet
   <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-## Week 12
-
-
-## Week 13
+## Week 12 + Week 13
+During this time frame, the classes consisted of a lot of working on our projects using the universities matierials and finalising our products. During this week we finalised our coding to a point that was satisfactory to us even though it was not perfect and also filmed and took images of our mood bracelet to creat the video rercording. After class was finished, we focused on creating the script for the video of the mood bracelet and then Angelique put all of the videos together and put the voice recordings into the film as well, completing the last task for this subject. 

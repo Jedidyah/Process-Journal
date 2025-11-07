@@ -10,10 +10,7 @@ Below is an image of the coding software used and also some meterials that we ex
 </p>
 
 ## Week 10
-In week 10 we. 
-<p align="center" style="text-align: center;">
-  <img src="images/Java-code.png" alt="Java code" style="display: block; margin-left: auto; margin-right: auto;"/>
-</p>
+In week 10 we bring the microbit to life by beginning to finalise specific details and also experiment with different lenghts of wires and testing the heart rate monitor with the coding we had. The coding at the time was not communicatng well with the heart rate monitor as it was recording a lot of loud noise and making the data come across as a lot higher than it actually was. This wasn't something that we fixed fully until week 12. 
 
 ## Week 11
 In week 11 we.

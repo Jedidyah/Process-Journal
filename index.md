@@ -6,7 +6,7 @@ Below is an image of the coding software used and also some meterials that we ex
   <img src="images/MicroBit Code.png" alt="Microbit Code" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 <p align="center" style="text-align: center;">
-  <img src="images/MicroBit Code.png" alt="Microbit Code" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/greenlights.png" alt="greenlights" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 ## Week 10

@@ -20,7 +20,7 @@ In week 11 we finalised the actual design aspect of our mood bracelet by making 
   <img src="images/fire.jpg" alt="fire" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 <p align="center" style="text-align: center;">
-  <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/Soulder.jpg" alt="Soulder" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 ## Week 12 + Week 13

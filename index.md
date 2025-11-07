@@ -2,6 +2,7 @@
 ## Week 9
 In week 9 we started to come up with more ideas of how the microbit would look and work, while also trying to come up with the coding for the facial expressions that will show on the front of the Microbit. We also began to experiment with different buts and pieces and other parts such as a different type of microbit (not called a microbit but it is a smaller piece that was considered for the project) and also a heart rate monitor. 
 Below is an image of the coding software used and also some meterials that we experimented with: 
+
 <p align="center" style="text-align: center;">
   <img src="images/MicroBit Code.png" alt="Microbit Code" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
@@ -13,7 +14,11 @@ Below is an image of the coding software used and also some meterials that we ex
 In week 10 we bring the microbit to life by beginning to finalise specific details and also experiment with different lenghts of wires and testing the heart rate monitor with the coding we had. The coding at the time was not communicatng well with the heart rate monitor as it was recording a lot of loud noise and making the data come across as a lot higher than it actually was. This wasn't something that we fixed fully until week 12. 
 
 ## Week 11
-In week 11 we.
+In week 11 we finalised the actual design aspect of our mood bracelet by making sure we did long enough wiring and putting all of the different pieces together. Making sure that the measurements look adequite to our hand sizes so that it fits somewhat comfortably. Below are some images of the souldering and the process of making the wires so that they can adhere well to the microbit and attach properly to the heart rate monitor: 
+
+<p align="center" style="text-align: center;">
+  <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 <p align="center" style="text-align: center;">
   <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>

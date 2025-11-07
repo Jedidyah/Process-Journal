@@ -3,10 +3,10 @@
 In week 9 we started to come up with more ideas of how the microbit would look and work, while also trying to come up with the coding for the facial expressions that will show on the front of the Microbit. We also began to experiment with different buts and pieces and other parts such as a different type of microbit (not called a microbit but it is a smaller piece that was considered for the project) and also a heart rate monitor. 
 Below is an image of the coding software used and also some meterials that we experimented with: 
 <p align="center" style="text-align: center;">
-  <img src="MicroBit Code.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/MicroBit Code.png" alt="Microbit Code" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 <p align="center" style="text-align: center;">
-  <img src="MicroBit Code.png" alt="Sketch of Bracelet Concept" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/MicroBit Code.png" alt="Microbit Code" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
 ## Week 10

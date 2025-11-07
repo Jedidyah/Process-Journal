@@ -17,7 +17,7 @@ In week 10 we bring the microbit to life by beginning to finalise specific detai
 In week 11 we finalised the actual design aspect of our mood bracelet by making sure we did long enough wiring and putting all of the different pieces together. Making sure that the measurements look adequite to our hand sizes so that it fits somewhat comfortably. Below are some images of the souldering and the process of making the wires so that they can adhere well to the microbit and attach properly to the heart rate monitor: 
 
 <p align="center" style="text-align: center;">
-  <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="images/fire.jpg" alt="fire" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 <p align="center" style="text-align: center;">
   <img src="images/powerpoint.png" alt="powerpoint" style="display: block; margin-left: auto; margin-right: auto;"/>
